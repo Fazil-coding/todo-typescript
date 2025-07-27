@@ -1,0 +1,20 @@
+{
+  "name": "sql-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/db.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/pg": "^8.15.4",
+    "dotenv": "^17.2.1",
+    "pg": "^8.16.3",
+    "ts-node": "^10.9.2"
+  }
+}
