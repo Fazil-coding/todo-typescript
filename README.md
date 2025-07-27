@@ -31,6 +31,7 @@ This is a simple **Todo List application** built using **TypeScript** and **Post
 ## 📁 Folder Structure (Basic)
 
 project-root/
+
 ├── db.ts # Database connection
 
 ├── createTodo.ts # Create function
